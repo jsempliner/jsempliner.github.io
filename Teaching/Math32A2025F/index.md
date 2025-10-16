@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Math 32A -- Fall 2025
+title: Math 32A &mdash; Fall 2025
 ---
 
 Welcome to the course website!  
@@ -10,7 +10,7 @@ Welcome to the course website!
 - **Email:** jsempliner@math.ucla.edu  
 
 ## Schedule
-MWF 10–10:50am
+MWF 10–10:50am, Bunche 1209B. 
 
 ## Syllabus
 Here is a link to the <a href = "jsempliner.github.io/Teaching/Math32A2025F/Math32ASyllabus.pdf">syllabus</a>.
