@@ -1,0 +1,9 @@
+title: "Jack Sempliner"
+url: "https://jsempliner.github.io"
+baseurl: ""     # user site => keep empty
+markdown: kramdown
+
+# Optional site-wide defaults for meta tags:
+description: "A professional homepage."
+keywords: "math, mathematics, Langlands program, arithmetic geometry, number theory, Jack Sempliner"
+author: "Jack Sempliner"
