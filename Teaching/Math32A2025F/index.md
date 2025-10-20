@@ -19,7 +19,7 @@ Here is a link to the <a href = "{{ page.dir }}Math32ASyllabus.pdf">syllabus</a>
 <ul>
     <li><a href = "{{ page.dir }}Math32AHW1.pdf">Homework 1</a> (Due Monday, October 6, 2025 at 11:59 PM).</li>
     <li><a href = "{{ page.dir }}Math32AHW2.pdf">Homework 2</a> (Due Tuesday, October 14, 2025 at 11:59 PM).</li>
-    <li><a href = "{{ page.dir }}Math32AHW3.pdf">Homework 3</a> (Due Monday, October 20, 2025 at 11:59 PM).</li>
+    <li><a href = "{{ page.dir }}Math32AHW3.pdf">Homework 3</a> (Due Monday, October 21, 2025 at 11:59 PM).</li>
 </ul>
 
 ## Quizzes and Exams
