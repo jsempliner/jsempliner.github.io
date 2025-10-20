@@ -31,6 +31,6 @@ Here is a link to the <a href = "{{ page.dir }}Math32ASyllabus.pdf">syllabus</a>
 </ul>
 
 <ul>
-    <li><a href = "{{ page.dir }}Practice_Midterm.pdf">practice midterm</a>, some practice midterm questions representative of the difficulty (but not the length) of the midterm.</li>
+    <li><a href = "{{ page.dir }}Practice_Midterm.pdf">Practice midterm</a>, some practice midterm questions representative of the difficulty (but not the length) of the midterm.</li>
     <li><a href = "{{ page.dir }}Practice_Midterm_Solutions.pdf">Solutions for the above questions</a>.</li>
 </ul>
