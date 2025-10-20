@@ -22,3 +22,15 @@ Here is a link to the <a href = "{{ page.dir }}Math32ASyllabus.pdf">syllabus</a>
     <li><a href = "{{ page.dir }}Math32AHW3.pdf">Homework 3</a> (Due Monday, October 20, 2025 at 11:59 PM).</li>
 </ul>
 
+## Quizzes and Exams
+
+<ul>
+    <li><a href = "{{ page.dir }}Quiz1T.pdf">Quiz 1, Tuesday</a>.</li>
+    <li><a href = "{{ page.dir }}Quiz1R.pdf">Quiz 1, Thursday</a>.</li>
+    <li><a href = "{{ page.dir }}Quiz_Solutions.pdf">Solutions for Quiz 1</a>.</li>
+</ul>
+
+<ul>
+    <li><a href = "{{ page.dir }}Practice_Midterm.pdf">practice midterm</a>, some practice midterm questions representative of the difficulty (but not the length) of the midterm.</li>
+    <li><a href = "{{ page.dir }}Practice_Midterm_Solutions.pdf">Solutions for the above questions</a>.</li>
+</ul>
